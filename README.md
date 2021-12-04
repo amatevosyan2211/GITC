@@ -1,1 +1,1 @@
-# GITC
+# GITC-Python
